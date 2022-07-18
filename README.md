@@ -30,7 +30,7 @@ In the first part of our complete e-commerce app, we show you how you can create
 => Home Page
 
 => Product Details
-
+gi
 => Order
 
 => Profile (added)
